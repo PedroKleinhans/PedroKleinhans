@@ -22,7 +22,6 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
 <img 
     align="left" 
     alt="C"
-    title="C" 
     width="80px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
@@ -30,7 +29,6 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
 <img 
   align="left" 
   alt="CSS"
-  title="CSS" 
   width="80" 
   src="https://github.com/user-attachments/assets/9e952d8b-7a5d-499b-a22e-6851cdbcb53e" 
 />
@@ -38,13 +36,18 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
 
 <img 
   align="left"  
-  alt="HTML"
-  title="HTML" 
+  alt="HTML" 
   width="80" 
-  src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+  src="https://github.com/user-attachments/assets/f8ae8891-c383-4840-bec9-c2b1ec4c213a" 
 />
 
-<img align="left" alt="Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img 
+  align="left" 
+  alt="Python" 
+  width="80" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+/>
+
 
 <img 
     align="left"
