@@ -24,7 +24,6 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
     alt="C"
     title="C" 
     width="80px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
@@ -33,10 +32,17 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
   alt="CSS"
   title="CSS" 
   width="80" 
-  src="https://github.com/PedroKleinhans/PedroKleinhans/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+  src="https://github.com/user-attachments/assets/9e952d8b-7a5d-499b-a22e-6851cdbcb53e" 
+/>
 
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+<img 
+  align="left"  
+  alt="HTML"
+  title="HTML" 
+  width="80" 
+  src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+/>
 
 <img align="left" alt="Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
