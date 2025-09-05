@@ -6,15 +6,17 @@
 
 
 👨‍💻 Pedro Henrique | 18 anos <br>
-✨Apaixonado por tecnologia e em sempre disposto a aprender mais a cada dia!<br>
+</div>
+<div align="left">
+✨Apaixonado por tecnologia e em sempre disposto a aprender mais a cada dia!<br><br>
 🎓 Formado como Técnico em Desenvolvimento de Sistemas, no ensino medio superior iniciando no Colégio Estadual Eduardo Virmond Suplicy (Francisco Beltrão-pr) e finalizando no Colégio Estadual Ayrton Senna da Silva (Foz Do Iguaçu-Pr).<br>
-Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistemas com Engenharia de Software na Universidade Das Americas Descomplica.
-
+Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistemas com Engenharia de Software na Universidade Das Americas Descomplica.<br><br>
 💡 Meu foco é desenvolver soluções inovadoras, explorar diferentes áreas da programação e evoluir como profissional na área de tecnologia.
 <br>
 <br> 
-  
 </div>
+  
+
 
 
   ### 🤖 Linguagens e Tecnologias:
@@ -50,12 +52,10 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
 
 
 <img 
-    align="left"
-    alt="Arduino" 
-    title="Arduino"
-    width="80px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+  align="left" 
+  alt="Arduino" 
+  width="80" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 />
 
 <img 
