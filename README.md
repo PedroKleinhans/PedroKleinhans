@@ -5,14 +5,12 @@
 <br>
 
 
-👨‍💻 Pedro Henrique | 18 anos
-Sou apaixonado por tecnologia e pelo poder do código em transformar ideias em soluções reais.
-🎓 Formado como Técnico em Desenvolvimento de Sistemas e atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistemas com Engenharia de Software na UniAmérica.
+👨‍💻 Pedro Henrique | 18 anos <br>
+✨Apaixonado por tecnologia e em sempre disposto a aprender mais a cada dia!<br>
+🎓 Formado como Técnico em Desenvolvimento de Sistemas, no ensino medio superior iniciando no Colégio Estadual Eduardo Virmond Suplicy (Francisco Beltrão-pr) e finalizando no Colégio Estadual Ayrton Senna da Silva (Foz Do Iguaçu-Pr).<br>
+Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistemas com Engenharia de Software na Universidade Das Americas Descomplica.
 
-🚀 Estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades para aplicar meus conhecimentos em projetos práticos.
 💡 Meu foco é desenvolver soluções inovadoras, explorar diferentes áreas da programação e evoluir como profissional na área de tecnologia.
-
-✨ Construindo hoje a base para ser um engenheiro de software capaz de criar impacto real no futuro.
 <br>
 <br> 
   
@@ -30,7 +28,13 @@ Sou apaixonado por tecnologia e pelo poder do código em transformar ideias em s
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+<img 
+  align="left" 
+  alt="CSS"
+  title="CSS" 
+  width="80" 
+  src="https://github.com/PedroKleinhans/PedroKleinhans/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
