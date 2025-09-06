@@ -7,6 +7,7 @@
 
 👨‍💻 Pedro Henrique | 18 anos <br>
 </div>
+
 <div align="left">
 ✨Apaixonado por tecnologia e em sempre disposto a aprender mais a cada dia!<br><br>
 🎓 Formado como Técnico em Desenvolvimento de Sistemas, no ensino medio superior iniciando no Colégio Estadual Eduardo Virmond Suplicy (Francisco Beltrão-pr) e finalizando no Colégio Estadual Ayrton Senna da Silva (Foz Do Iguaçu-Pr).<br>
@@ -47,7 +48,7 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
   align="left" 
   alt="Python" 
   width="80" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 />
 
 
@@ -55,16 +56,14 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
   align="left" 
   alt="Arduino" 
   width="80" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  src="https://github.com/user-attachments/assets/bef3df67-e97e-486f-8b00-9721a9da348d"
 />
 
 <img 
-    align="left" 
-    alt="Vscode"
-    title="Vscode" 
-    width="80px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+  align="left" 
+  alt="Vscode" 
+  width="80" 
+  src="https://github.com/user-attachments/assets/bef3df67-e97e-486f-8b00-9721a9da348d"
 />
 
 <img 
