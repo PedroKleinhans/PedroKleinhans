@@ -63,15 +63,13 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
   align="left" 
   alt="Vscode" 
   width="80" 
-  src="https://github.com/user-attachments/assets/bef3df67-e97e-486f-8b00-9721a9da348d"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 
 <img 
     align="center" 
     alt="JavaScript" 
-    title="JavaScript"
     width="80px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
