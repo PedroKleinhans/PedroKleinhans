@@ -9,7 +9,7 @@
 </div>
 
 <div align="left">
-✨Apaixonado por tecnologia e em sempre disposto a aprender mais a cada dia!<br><br>
+✨Apaixonado por tecnologia e sempre disposto a aprender mais a cada dia!<br><br>
 🎓 Formado como Técnico em Desenvolvimento de Sistemas, no ensino medio superior iniciando no Colégio Estadual Eduardo Virmond Suplicy (Francisco Beltrão-PR) e finalizando no Colégio Estadual Ayrton Senna da Silva (Foz Do Iguaçu-PR).<br>
 Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistemas com Engenharia de Software na Universidade Das Americas Descomplica.<br><br>
 💡 Meu foco é desenvolver soluções inovadoras, explorar diferentes áreas da programação e evoluir como profissional na área de tecnologia.
