@@ -75,19 +75,32 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
 
 <br>
 
-<div align="center">
+<div align="Center">
   
+<img 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroKleinhans&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroKleinhans&theme=midnight-purple&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 </div>
 
+</div>
+
+  ### 📲 Minhas redes de contato:
 <div align="center"> 
 <a href="https://instagram.com/pedrohfkleinhans" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<img align="center" height="150" width="90" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
 
-<a href="mailto:cmp.1a.pedrokleinhans@gmail.com">
+<a href="https://wa.link/j6nza0" target="_blank">
+<img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/ad071dea-379a-4c50-b40a-7b7007418527">
+</a>
+
+<a href="mailto:cmp.1a.pedrokleinhans@gmail.com" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
@@ -98,16 +111,4 @@ Atualmente cursando dupla certificação em Análise e Desenvolvimento de Sistem
 
 </div>
 
-<div align="center" >
-   
-<br>
 
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroKleinhans&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-
-</div>
